@@ -51,7 +51,7 @@ This project is designed to quickly and easily compile the technologies a websit
 Run the Python script:
 
 ```
-python3 scipt.py
+python3 script.py
 ```
 
 The script will:
